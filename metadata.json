@@ -1,0 +1,6 @@
+{
+  "name": "Round Robin CPU Scheduler Visualizer",
+  "description": "An interactive full-stack visualizer and solver for the Round Robin CPU scheduling algorithm with step-by-step queue execution and AI-assisted performance analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
